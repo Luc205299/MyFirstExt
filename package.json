@@ -3,7 +3,7 @@
   "displayName": "test",
   "description": "test",
   "version": "0.0.1",
-  "package": "https://github.com/Luc205299/MyFirstExt",
+  "repository": "https://github.com/Luc205299/MyFirstExt",
   "engines": {
     "vscode": "^1.84.0"
   },
